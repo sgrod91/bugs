@@ -1,0 +1,26 @@
+
+/* =============   General ================================= */
+
+body{
+	font-family: "Trebuchet MS", sans-serif;
+	background-color: #ccc;
+	margin: 0;
+	padding: 0;
+	color: #222;
+}
+
+body {
+    width: 400px;
+}
+
+
+
+.section {
+    background-color: yellow;
+    margin: 10px;
+    border: 1px solid dotted;
+}
+
+#contents {
+    background-color: orange;
+}
